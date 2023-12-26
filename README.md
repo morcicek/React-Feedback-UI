@@ -26,12 +26,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](src/assets/images/ratingSide.png)
-![](src/assets/images/thanksSide.png)
+![](./src/assets/images/screenShot.png)
 
 ### Links
 
-- Solution URL: [Github Solution](https://github.com/morcicek/interactive-component)
 - Live Site URL: [Interactive Component](https://incomparable-granita-a4ae87.netlify.app/)
 
 ## My process
