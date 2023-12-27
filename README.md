@@ -1,6 +1,6 @@
-# Frontend Mentor - Interactive rating component solution
+# Feedback UI React
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a React project which is about rating and feedback UI for any website or app
 
 ## Table of contents
 
