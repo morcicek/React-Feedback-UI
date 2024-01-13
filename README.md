@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Interactive Component](https://incomparable-granita-a4ae87.netlify.app/)
+- Live Site URL: [Feedback UI](https://incomparable-granita-a4ae87.netlify.app/)
 
 ## My process
 
